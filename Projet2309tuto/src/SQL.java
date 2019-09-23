@@ -151,7 +151,7 @@ public class SQL {
 		}
 
 	}
-	//fonction majsexe qui est appelée dans Main
+	//fonction majprenom qui est appelée dans Main
 	public void majprenom() throws Exception {
 		Scanner scanneridp = new Scanner(System.in);
 		System.out.println("Saisissez un ID_PATIENT svp :");
